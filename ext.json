@@ -88,8 +88,8 @@
     ],
     "verification": {
       "nonce": "76958f50cdd43bde2a11a2ade4225c11",
-      "remark_message": "vt-registry:v1:owner=5FNqzGdgefp9RxS6qmcJwvGAFaqFtv7R43JzChM9jwri9aKg:verification=76958f50cdd43bde2a11a2ade4225c11",
-      "hash": "0x0f4b75e748e67effc9d84a7efb6ef4d67c8f1140c4e357099a26aa8440852e4b"
+      "remark_message": "vt-registry:v1:owner=76958f50cdd43bde2a11a2ade4225c11",
+      "hash": "0x26d1035b5ac7f6db9f7e2e66b37a8f9b002f78d0fdda7a83bc99c2df6e2702b8"
     }
   }
 ]
