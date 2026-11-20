@@ -1,0 +1,33 @@
+[
+    {
+    "owner": {
+      "owner_account": "5FNqzGdgefp9RxS6qmcJwvGAFaqFtv7R43JzChM9jwri9aKg",
+      "owner_name": "JABADABADOU",
+      "socials": {
+        "website": "https://unityfarmers.com/",
+        "x": "https://x.com/MFerJabadabadou",
+        "telegram": "@JABADABADOU"
+      }
+    },
+    "validator_node": [
+      {
+        "operator_account": "5FNqzGdgefp9RxS6qmcJwvGAFaqFtv7R43JzChM9jwri9aKg",
+        "name": "JABA-VN",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/jabadabadou/image/refs/heads/main/jaba%20png.png",
+        "url_png_logo": "https://raw.githubusercontent.com/jabadabadou/image/refs/heads/main/jaba%20png.png"
+      }
+    ],
+    "storage_nodes": [
+      {
+        "operator_account": "5FNqzGdgefp9RxS6qmcJwvGAFaqFtv7R43JzChM9jwri9aKg",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/jabadabadou/image/refs/heads/main/jaba%20png.png",
+        "url_png_logo": "https://raw.githubusercontent.com/jabadabadou/image/refs/heads/main/jaba%20png.png"
+      }
+    ],
+    "verification": {
+      "nonce": "76958f50cdd43bde2a11a2ade4225c11",
+      "remark_message": "vt-registry:v1:owner=76958f50cdd43bde2a11a2ade4225c11",
+      "hash": "0x26d1035b5ac7f6db9f7e2e66b37a8f9b002f78d0fdda7a83bc99c2df6e2702b8"
+    }
+  }
+]

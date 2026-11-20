@@ -1,0 +1,33 @@
+[
+  {
+    "owner": {
+      "owner_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+      "owner_name": "",
+      "socials": {
+        "website": "",
+        "x": "https://x.com/jpvegas21",
+        "telegram": ""
+      }
+    },
+    "validator_node": [ 
+      {
+        "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+        "name": "Kube",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
+        "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
+      }
+    ],
+    "storage_nodes": [
+      {
+        "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
+        "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
+      }
+    ],
+    "verification": {
+      "nonce": "8fd93dc45d3d9240198756a1f2b0b726",
+      "remark_message": "vt-registry:v1:account=5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY:verification=8fd93dc45d3d9240198756a1f2b0b726",
+      "hash": "0x06f42bafd8c1c9672cbd64bf7a6928f65138f857510b0c5abdc92f909e78168e"
+    }
+  }
+]

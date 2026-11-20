@@ -1,0 +1,33 @@
+[
+  {
+    "owner": {
+      "owner_account": "5CcucFGTBmx8Dj5QvssD4hG8mBnfZz3DRhWjm2DTj3VSMUdo",
+      "owner_name": "Cardania",
+      "socials": {
+        "website": "https://afreiel.cloud/",
+        "x": "https://x.com/Cardania777",
+        "telegram": ""
+      }
+    },
+    "validator_node": [
+      {
+        "operator_account": "5CcucFGTBmx8Dj5QvssD4hG8mBnfZz3DRhWjm2DTj3VSMUdo",
+        "name": "Afrëiel",
+        "url_png_icon_64x64": "https://afreiel.cloud/favicon-96x96.png",
+        "url_png_logo": "https://afreiel.cloud/faviconsource.png"
+      }
+    ],
+    "storage_nodes": [
+      {
+        "operator_account": "5CcucFGTBmx8Dj5QvssD4hG8mBnfZz3DRhWjm2DTj3VSMUdo",
+        "url_png_icon_64x64": "https://afreiel.cloud/favicon-96x96.png",
+        "url_png_logo": "https://afreiel.cloud/faviconsource.png"
+      }
+    ],
+    "verification": {
+      "nonce": "ffd0cbffab8cf97de20275061215abd9",
+      "remark_message": "vt-registry:v1:owner=5CcucFGTBmx8Dj5QvssD4hG8mBnfZz3DRhWjm2DTj3VSMUdo:verification=ffd0cbffab8cf97de20275061215abd9",
+      "hash": "0xbbf4148c9418fe0cd0cf3902080bca58da9dba690922d64d7de8dbade89cfbe2"
+    }
+  }
+]
